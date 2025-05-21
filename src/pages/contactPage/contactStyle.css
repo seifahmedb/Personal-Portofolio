@@ -1,0 +1,72 @@
+
+.caption {
+    margin-top: 100px;
+    margin-left: 480px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+footer {
+    width: 100%;
+    background-color: black;
+    height: 220px;
+    z-index: 1;
+    margin-top: 292px;
+  }
+  
+  .contactBox-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    height: 250px;
+    background-color: rgb(89, 89, 104);
+    margin: -300px auto 0 auto; 
+    z-index: 1000;
+    border-radius: 12px;
+  }
+
+  .divz-style {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: -180px;
+  }
+
+  .contact-item {
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .icon-label {
+    width: 100px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 0px;
+    /* color: #d17f03; */
+  }
+  
+  .buttonz-style {
+    width: 130px;
+    height: 130px;
+    border: none;
+    border-radius: 50%;
+    background-color: #c4c4c4;
+  }
+
+  .buttonz-style:hover {
+    scale: 1.1;
+    cursor: pointer;
+  }
+  
+  .logoz-style {
+    width: 80px;
+    height: 80px;
+    color: #d17f03;
+  }

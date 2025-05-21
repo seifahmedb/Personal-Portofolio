@@ -1,0 +1,30 @@
+.containerStyle {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.containerStyle img {
+    width: 140px;
+    height: 140px;
+    margin: 15px;
+    margin-left: 35px;
+}
+
+.containerStyle img:hover {
+    scale: 1.1;
+}
