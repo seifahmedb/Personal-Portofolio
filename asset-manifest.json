@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Personal-Portofolio/static/css/main.7f951158.css",
+    "main.js": "/Personal-Portofolio/static/js/main.6afb2fa3.js",
+    "static/js/453.ed3810f9.chunk.js": "/Personal-Portofolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/movie.mp4": "/Personal-Portofolio/static/media/movie.3152d733bdc46de32748.mp4",
+    "static/media/meCartooon.png": "/Personal-Portofolio/static/media/meCartooon.df4c0ce4088197b1e198.png",
+    "static/media/msse.jpg": "/Personal-Portofolio/static/media/msse.e46820feecaa3bd40e99.jpg",
+    "static/media/car.png": "/Personal-Portofolio/static/media/car.2a385d756fc7ae4613b0.png",
+    "static/media/shoes.png": "/Personal-Portofolio/static/media/shoes.e3de07b494c2ea0ea368.png",
+    "static/media/bg.jpg": "/Personal-Portofolio/static/media/bg.65bd3b1bc47df938164a.jpg",
+    "static/media/montserrat-latin-ext-400-italic.woff": "/Personal-Portofolio/static/media/montserrat-latin-ext-400-italic.d99e7e4e115b9c32403b.woff",
+    "static/media/montserrat-latin-ext-400-normal.woff": "/Personal-Portofolio/static/media/montserrat-latin-ext-400-normal.85beb71046499a27877f.woff",
+    "static/media/montserrat-latin-ext-400-italic.woff2": "/Personal-Portofolio/static/media/montserrat-latin-ext-400-italic.a5a00662696c00c1fea1.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/Personal-Portofolio/static/media/montserrat-latin-ext-400-normal.1974241fa9a808c0c154.woff2",
+    "static/media/montserrat-latin-400-italic.woff": "/Personal-Portofolio/static/media/montserrat-latin-400-italic.469aae281f8c57105046.woff",
+    "static/media/montserrat-latin-400-normal.woff": "/Personal-Portofolio/static/media/montserrat-latin-400-normal.30be1f65d8fd296bdbbe.woff",
+    "static/media/montserrat-latin-400-italic.woff2": "/Personal-Portofolio/static/media/montserrat-latin-400-italic.b49ca22cc5e16126f364.woff2",
+    "static/media/montserrat-latin-400-normal.woff2": "/Personal-Portofolio/static/media/montserrat-latin-400-normal.4bc3bc9536f24ed8076d.woff2",
+    "static/media/js.webp": "/Personal-Portofolio/static/media/js.00fd0fae01e451c5460a.webp",
+    "static/media/montserrat-cyrillic-ext-400-italic.woff": "/Personal-Portofolio/static/media/montserrat-cyrillic-ext-400-italic.2cdb3082071f6f2d16cc.woff",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff": "/Personal-Portofolio/static/media/montserrat-cyrillic-ext-400-normal.a41db946bbde6849cc3d.woff",
+    "static/media/montserrat-cyrillic-ext-400-italic.woff2": "/Personal-Portofolio/static/media/montserrat-cyrillic-ext-400-italic.5a8aba73266709f51e94.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/Personal-Portofolio/static/media/montserrat-cyrillic-ext-400-normal.f455ee8f24fd612e2b15.woff2",
+    "static/media/montserrat-cyrillic-400-italic.woff": "/Personal-Portofolio/static/media/montserrat-cyrillic-400-italic.880d7c622285e63a85ea.woff",
+    "static/media/montserrat-cyrillic-400-italic.woff2": "/Personal-Portofolio/static/media/montserrat-cyrillic-400-italic.8fcc38023ed2466f2ea6.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff": "/Personal-Portofolio/static/media/montserrat-cyrillic-400-normal.6772545b846bb4fee5ea.woff",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/Personal-Portofolio/static/media/montserrat-cyrillic-400-normal.4715847d051a164a7577.woff2",
+    "static/media/montserrat-vietnamese-400-italic.woff2": "/Personal-Portofolio/static/media/montserrat-vietnamese-400-italic.6cd1e041b4078b2fcfb8.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/Personal-Portofolio/static/media/montserrat-vietnamese-400-normal.7da603c92e367751f991.woff2",
+    "static/media/montserrat-vietnamese-400-italic.woff": "/Personal-Portofolio/static/media/montserrat-vietnamese-400-italic.62beac9eec632a03a94d.woff",
+    "static/media/montserrat-vietnamese-400-normal.woff": "/Personal-Portofolio/static/media/montserrat-vietnamese-400-normal.c14d61c769222a9ee56c.woff",
+    "index.html": "/Personal-Portofolio/index.html",
+    "main.7f951158.css.map": "/Personal-Portofolio/static/css/main.7f951158.css.map",
+    "main.6afb2fa3.js.map": "/Personal-Portofolio/static/js/main.6afb2fa3.js.map",
+    "453.ed3810f9.chunk.js.map": "/Personal-Portofolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f951158.css",
+    "static/js/main.6afb2fa3.js"
+  ]
+}
